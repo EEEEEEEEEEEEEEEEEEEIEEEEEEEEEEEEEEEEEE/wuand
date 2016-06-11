@@ -28,7 +28,7 @@ https://medium.com/
 
 ###3.ACG类
 
-http://www.nicovideo.jp/
+http://www.nicovideo.jp/watch/sm29021785
 
 http://www.dmm.com/
 
