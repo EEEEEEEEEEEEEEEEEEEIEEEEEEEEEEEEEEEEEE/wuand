@@ -10,6 +10,10 @@ https://scholar.google.com/?hl=zh-CN
 
 https://www.google.com.hk/search?q=%E5%91%B5%E5%91%B5&oq=%E5%91%B5%E5%91%B5&aqs=chrome..69i57.948j0j4&sourceid=chrome&ie=UTF-8
 
+https://www.youtube.com/?gl=US
+
+https://www.youtube.com/watch?v=YXSpXO4N-tI
+
 ###2.常见墙外网站
 
 https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5
@@ -40,3 +44,14 @@ http://www.dmm.com/netgame/social/-/gadgets/=/app_id=825012/
 
 http://v.youku.com/v_show/id_XMTYwMzQ5NTU3Mg==.html
 
+http://www.iqiyi.com/v_19rrlfuf9w.html
+
+http://tv.sohu.com/20160611/n453836239.shtml
+
+http://www.tudou.com/albumplay/uQs_5iCkh7Y/wRLOXJCsPcE.html
+
+http://www.le.com/ptv/vplay/25606867.html
+
+http://v.pptv.com/show/ibEgkogpw4B6Bic2c.html
+
+http://v.ku6.com/show/2h91_A_2spymatXarUJBwA...html
