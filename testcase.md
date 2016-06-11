@@ -36,7 +36,7 @@ http://www.pixiv.net/member_illust.php?mode=medium&illust_id=57303663
 
 http://share.dmhy.org/
 
-http://wikiwiki.jp/
+http://wikiwiki.jp/ （仅支持2.8）
 
 http://www.dmm.com/netgame/social/-/gadgets/=/app_id=854854/
 
