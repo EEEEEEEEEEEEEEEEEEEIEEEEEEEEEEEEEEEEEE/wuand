@@ -10,19 +10,19 @@ https://scholar.google.com/?hl=zh-CN
 
 https://www.google.com.hk/search?q=%E5%91%B5%E5%91%B5&oq=%E5%91%B5%E5%91%B5&aqs=chrome..69i57.948j0j4&sourceid=chrome&ie=UTF-8
 
-https://www.youtube.com/watch?v=YXSpXO4N-tI
+https://www.youtube.com/watch?v=YXSpXO4N-tI （lite版不支持）
 
 ###2.常见墙外网站
 
 https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5
 
-https://twitter.com/
+https://twitter.com/ （lite版不支持）
 
-https://www.facebook.com/
+https://www.facebook.com/ （lite版不支持）
 
-https://www.tumblr.com/
+https://www.tumblr.com/ （lite版不支持）
 
-https://www.instagram.com/
+https://www.instagram.com/ （lite版不支持）
 
 https://medium.com/
 
