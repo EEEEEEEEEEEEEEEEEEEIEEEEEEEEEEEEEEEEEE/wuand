@@ -6,7 +6,7 @@
 
 https://www.google.com/ncr#hl=zh-cn
 
-https://scholar.google.com/?hl=zh-CN
+http://scholar.google.com/?hl=zh-CN
 
 https://www.google.com.hk/search?q=%E5%91%B5%E5%91%B5&oq=%E5%91%B5%E5%91%B5&aqs=chrome..69i57.948j0j4&sourceid=chrome&ie=UTF-8
 
