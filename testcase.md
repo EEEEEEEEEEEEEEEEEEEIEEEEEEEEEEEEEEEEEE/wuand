@@ -8,7 +8,7 @@ https://www.google.com/ncr#hl=zh-cn
 
 http://scholar.google.com/?hl=zh-CN
 
-https://www.google.com.hk/search?q=%E5%91%B5%E5%91%B5&oq=%E5%91%B5%E5%91%B5&aqs=chrome..69i57.948j0j4&sourceid=chrome&ie=UTF-8
+https://www.google.com.hk/search?q=广告
 
 https://www.youtube.com/watch?v=YXSpXO4N-tI （lite版不支持）
 
@@ -54,7 +54,7 @@ http://www.iqiyi.com/v_19rrlfuf9w.html
 
 http://tv.sohu.com/20160611/n453836239.shtml
 
-http://www.tudou.com/albumplay/uQs_5iCkh7Y/wRLOXJCsPcE.html
+https://github.com/wuand/wuand/blob/test/testcase.md
 
 http://www.le.com/ptv/vplay/25606867.html
 
