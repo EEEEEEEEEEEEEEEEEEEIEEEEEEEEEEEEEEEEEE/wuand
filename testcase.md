@@ -54,7 +54,7 @@ http://www.iqiyi.com/v_19rrlfuf9w.html
 
 http://tv.sohu.com/20160611/n453836239.shtml
 
-https://github.com/wuand/wuand/blob/test/testcase.md
+http://www.tudou.com/albumplay/iYybgZAmNBI/xlGBgvIehwI.html
 
 http://www.le.com/ptv/vplay/25606867.html
 
