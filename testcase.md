@@ -20,8 +20,6 @@ https://twitter.com/ （lite版不支持）
 
 https://www.facebook.com/ （lite版不支持）
 
-https://www.tumblr.com/ （lite版不支持）
-
 https://www.instagram.com/ （lite版不支持）
 
 https://medium.com/
