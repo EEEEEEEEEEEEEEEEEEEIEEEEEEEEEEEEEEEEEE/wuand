@@ -22,8 +22,6 @@ https://www.facebook.com/ （lite版不支持）
 
 https://www.instagram.com/ （lite版不支持）
 
-https://medium.com/
-
 ###3.ACG类
 
 http://www.nicovideo.jp/watch/sm28882411
