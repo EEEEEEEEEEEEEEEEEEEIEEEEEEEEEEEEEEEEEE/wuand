@@ -1,8 +1,8 @@
-#午安浏览器发布前测试列表
+# 午安浏览器发布前测试列表
 
-##一、代理相关
+## 一、代理相关
 
-###1.Google系
+### 1.Google系
 
 https://www.google.com/ncr#hl=zh-cn
 
@@ -12,7 +12,7 @@ https://www.google.com.hk/search?q=广告
 
 https://www.youtube.com/watch?v=YXSpXO4N-tI （lite版不支持）
 
-###2.常见墙外网站
+### 2.常见墙外网站
 
 https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5
 
@@ -22,7 +22,9 @@ https://www.facebook.com/ （lite版不支持）
 
 https://www.instagram.com/ （lite版不支持）
 
-###3.ACG类
+https://www.pinterest.com/
+
+### 3.ACG类
 
 http://www.nicovideo.jp/watch/sm28882411
 
@@ -40,7 +42,7 @@ http://www.dmm.com/netgame/social/-/gadgets/=/app_id=825012/
 
 http://www.gamer.com.tw/
 
-##二、广告过滤相关
+## 二、广告过滤相关
 
 1.视频网站广告过滤
 
@@ -58,14 +60,14 @@ http://v.pptv.com/show/Py4KiaPBWxgRn5U0.html
 
 http://v.ku6.com/show/2h91_A_2spymatXarUJBwA...html
 
-###2.其它
+### 2.其它
 
 https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2&rsv_spt=1&rsv_iqid=0xab850d600012c492&issp=1&f=8&rsv_bp=0&rsv_idx=2&ie=utf-8&tn=baiduhome_pg&rsv_enter=1&rsv_sug3=2&rsv_sug1=1&rsv_sug7=100&rsv_sug2=0&inputT=1048&rsv_sug4=1051&rsv_sug=1
 
 http://tieba.baidu.com/p/4030675538?pn=2
 
-##三、其它
+## 三、其它
 
-###1.百度网盘助手
+### 1.百度网盘助手
 
 http://pan.baidu.com/s/1jIg0m0Y
