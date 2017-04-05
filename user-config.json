@@ -6,7 +6,7 @@
     "local_port": 1080,
 
     "password": "F52FAA0407ED710EFB3B400133826344",
-    "method": "	rc4-md5",
+    "method": "rc4-md5",
     "protocol": "auth_sha1_v4",
     "protocol_param": "",
     "obfs": "tls1.2_ticket_auth",
