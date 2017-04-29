@@ -5,7 +5,7 @@
     "local_address": "127.0.0.1",
     "local_port": 1080,
 
-    "password": "A60127DE3C7C11342F644AD87F4C7B7D",
+    "password": "DCEAFA0413415EAB6F0A75A5B78358D1",
     "method": "rc4-md5",
     "protocol": "auth_sha1_v4",
     "protocol_param": "",
