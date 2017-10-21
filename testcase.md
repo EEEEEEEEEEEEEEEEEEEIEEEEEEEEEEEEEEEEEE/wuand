@@ -8,19 +8,21 @@ https://www.google.com/ncr#hl=zh-cn
 
 http://scholar.google.com/?hl=zh-CN
 
+https://mail.google.com/mail/
+
 https://www.google.com.hk/search?q=广告
 
 https://www.youtube.com/watch?v=YXSpXO4N-tI （lite版不支持）
 
 ### 2.常见墙外网站
 
-https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5
+https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5 （lite版不支持）
 
 https://twitter.com/ （lite版不支持）
 
 https://www.facebook.com/ （lite版不支持）
 
-https://www.instagram.com/ （lite版不支持）
+https://www.instagram.com/ 
 
 https://www.pinterest.com/
 
