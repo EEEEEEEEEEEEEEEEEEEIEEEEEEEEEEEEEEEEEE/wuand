@@ -4,7 +4,7 @@
 
 ### 1.Google系
 
-https://www.google.com/ncr#hl=zh-cn
+<a href="https://www.google.com/ncr#hl=zh-cn" >Google</a>
 
 http://scholar.google.com/?hl=zh-CN
 
