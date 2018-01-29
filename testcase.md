@@ -28,11 +28,17 @@ https://www.pinterest.com/
 
 https://vimeo.com/252220553
 
-### 3.ACG类
+dmm
+
+http://www.dmm.com/netgame/social/-/gadgets/=/app_id=854854/
+
+http://www.dmm.com/netgame/social/-/gadgets/=/app_id=825012/
+
+http://www.dmm.com/netgame/social/-/gadgets/=/app_id=798209/
+
+二次元
 
 http://www.nicovideo.jp/watch/sm28882411
-
-http://www.dmm.com/
 
 http://www.pixiv.net/member_illust.php?mode=medium&illust_id=57303663
 
@@ -40,11 +46,63 @@ http://share.dmhy.org/
 
 http://wikiwiki.jp/ （仅2.8支持）
 
-http://www.dmm.com/netgame/social/-/gadgets/=/app_id=854854/
+http://www.getchu.com/
 
-http://www.dmm.com/netgame/social/-/gadgets/=/app_id=825012/
+https://saucenao.com/
 
-http://www.dmm.com/netgame/social/-/gadgets/=/app_id=798209/
+技术
+
+https://github.com/
+
+https://sourceforge.net/
+
+https://www.w3schools.com/
+
+https://www.android.com/
+
+https://golang.org/
+
+https://www.python.org/
+
+https://www.gitbook.com/
+
+教育
+
+https://www.coursera.org/
+
+https://archive.org/
+
+艺术
+
+https://www.deviantart.com/
+
+网盘
+
+https://www.dropbox.com/
+
+https://onedrive.live.com/about/zh-cn/
+
+https://www.mediafire.com/
+
+https://uploader.jp/
+
+电商
+
+https://shop.nordstrom.com/
+
+音乐
+
+https://soundcloud.com/
+
+新闻
+
+https://www.economist.com/
+
+https://www.bloomberg.com/
+
+游戏
+
+https://www.twitch.tv/
 
 http://www.gamer.com.tw/
 
