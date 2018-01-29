@@ -6,7 +6,7 @@
 
 https://www.google.com.hk/search?q=广告
 
-http://scholar.google.com/?hl=zh-CN
+https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=%E5%91%B5%E5%91%B5&oq=
 
 https://mail.google.com/mail/
 
