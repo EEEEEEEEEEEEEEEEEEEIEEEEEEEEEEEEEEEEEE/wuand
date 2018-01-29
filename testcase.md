@@ -4,13 +4,11 @@
 
 ### 1.Google系
 
-https://www.google.com.hk/
+https://www.google.com.hk/search?q=广告
 
 http://scholar.google.com/?hl=zh-CN
 
 https://mail.google.com/mail/
-
-https://www.google.com.hk/search?q=广告
 
 https://www.youtube.com/watch?v=YXSpXO4N-tI （lite版不支持）
 
