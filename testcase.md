@@ -20,9 +20,13 @@ https://twitter.com/ （lite版不支持）
 
 https://www.facebook.com/ （lite版不支持）
 
+https://medium.com/
+
 https://www.instagram.com/ 
 
 https://www.pinterest.com/
+
+https://vimeo.com/252220553
 
 ### 3.ACG类
 
