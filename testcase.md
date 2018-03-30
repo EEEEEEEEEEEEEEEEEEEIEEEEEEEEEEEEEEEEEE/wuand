@@ -144,8 +144,6 @@ http://www.le.com/ptv/vplay/25606867.html
 
 http://v.pptv.com/show/Py4KiaPBWxgRn5U0.html
 
-http://v.ku6.com/show/2h91_A_2spymatXarUJBwA...html
-
 ### 2.其它
 
 https://www.baidu.com/s?wd=%E5%8C%BB%E9%99%A2&rsv_spt=1&rsv_iqid=0xab850d600012c492&issp=1&f=8&rsv_bp=0&rsv_idx=2&ie=utf-8&tn=baiduhome_pg&rsv_enter=1&rsv_sug3=2&rsv_sug1=1&rsv_sug7=100&rsv_sug2=0&inputT=1048&rsv_sug4=1051&rsv_sug=1
