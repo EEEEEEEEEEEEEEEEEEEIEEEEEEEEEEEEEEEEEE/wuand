@@ -28,6 +28,8 @@ https://www.pinterest.com/
 
 https://vimeo.com/252220553
 
+https://issuu.com/
+
 dmm
 
 http://www.dmm.com/netgame/social/-/gadgets/=/app_id=854854/
@@ -45,8 +47,6 @@ http://www.pixiv.net/member_illust.php?mode=medium&illust_id=57303663
 http://share.dmhy.org/
 
 http://wikiwiki.jp/ （仅2.8支持）
-
-http://www.getchu.com/
 
 https://saucenao.com/
 
@@ -72,9 +72,17 @@ https://www.coursera.org/
 
 https://archive.org/
 
+http://sci-hub.tw/
+
 艺术
 
 https://www.deviantart.com/
+
+https://www.behance.net/
+
+https://www.shutterstock.com/
+
+https://www.sketchappsources.com/
 
 网盘
 
