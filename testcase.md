@@ -114,6 +114,14 @@ https://www.twitch.tv/
 
 http://www.gamer.com.tw/
 
+https://www.miniclip.com/games/en/
+
+娱乐
+
+https://live.line.me/
+
+http://www.mgoon.com/en/
+
 ## 二、广告过滤相关
 
 1.视频网站广告过滤
