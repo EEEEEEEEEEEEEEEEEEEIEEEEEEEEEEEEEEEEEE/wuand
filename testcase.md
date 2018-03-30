@@ -46,7 +46,7 @@ http://www.pixiv.net/member_illust.php?mode=medium&illust_id=57303663
 
 http://share.dmhy.org/
 
-http://wikiwiki.jp/ （仅2.8支持）
+http://wikiwiki.jp/ 
 
 https://saucenao.com/
 
