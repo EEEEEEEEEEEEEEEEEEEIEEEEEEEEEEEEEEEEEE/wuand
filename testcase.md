@@ -84,6 +84,10 @@ https://www.shutterstock.com/
 
 https://www.sketchappsources.com/
 
+https://www.flickr.com/photos/pware/32732270066/
+
+http://www.proko.com/
+
 网盘
 
 https://www.dropbox.com/
@@ -110,11 +114,13 @@ https://www.bloomberg.com/
 
 游戏
 
-https://www.twitch.tv/
-
 http://www.gamer.com.tw/
 
 https://www.miniclip.com/games/en/
+
+https://www.twitch.tv/zondalol
+
+https://garena.live/bebe0316
 
 娱乐
 
