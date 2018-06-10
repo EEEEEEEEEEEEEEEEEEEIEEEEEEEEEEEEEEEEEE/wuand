@@ -112,7 +112,7 @@ http://www.gamer.com.tw/
 
 https://www.miniclip.com/games/en/
 
-https://www.twitch.tv/zondalol
+https://www.twitch.tv/cybergamesarena
 
 https://garena.live/bebe0316
 
