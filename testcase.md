@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=RzOES6ixZ_w （lite版不支持）
 
 https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5 （lite版不支持）
 
-https://twitter.com/ （lite版不支持）
+https://twitter.com/search?f=videos&q=Apple&src=typd （lite版不支持）
 
 https://www.facebook.com/ （lite版不支持）
 
