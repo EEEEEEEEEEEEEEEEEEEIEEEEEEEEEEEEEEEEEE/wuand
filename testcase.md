@@ -10,7 +10,7 @@ https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=%E5%91%B5%E5%91%B5&oq
 
 https://mail.google.com/mail/
 
-https://www.youtube.com/watch?v=YXSpXO4N-tI （lite版不支持）
+https://www.youtube.com/watch?v=RzOES6ixZ_w （lite版不支持）
 
 ### 2.常见墙外网站
 
