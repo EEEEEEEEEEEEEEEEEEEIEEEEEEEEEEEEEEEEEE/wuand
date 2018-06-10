@@ -106,12 +106,6 @@ https://shop.nordstrom.com/
 
 https://soundcloud.com/
 
-新闻
-
-https://www.economist.com/
-
-https://www.bloomberg.com/
-
 游戏
 
 http://www.gamer.com.tw/
