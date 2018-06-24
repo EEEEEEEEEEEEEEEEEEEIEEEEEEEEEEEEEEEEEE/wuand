@@ -2,33 +2,13 @@
 
 ## 一、代理相关
 
-### 1.Google系
+google
 
 https://www.google.com.hk/search?q=广告
 
 https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=%E5%91%B5%E5%91%B5&oq=
 
 https://mail.google.com/mail/
-
-https://www.youtube.com/watch?v=RzOES6ixZ_w （lite版不支持）
-
-### 2.常见墙外网站
-
-https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5 （lite版不支持）
-
-https://twitter.com/search?f=videos&q=Apple&src=typd （lite版不支持）
-
-https://www.facebook.com/ （lite版不支持）
-
-https://medium.com/
-
-https://www.instagram.com/ 
-
-https://www.pinterest.com/
-
-https://vimeo.com/252220553
-
-https://issuu.com/
 
 dmm
 
@@ -37,6 +17,22 @@ http://www.dmm.com/netgame/social/-/gadgets/=/app_id=854854/
 http://www.dmm.com/netgame/social/-/gadgets/=/app_id=825012/
 
 http://www.dmm.com/netgame/social/-/gadgets/=/app_id=798209/
+
+艺术
+
+https://www.pinterest.com/
+
+https://www.deviantart.com/
+
+https://www.behance.net/
+
+https://www.shutterstock.com/
+
+https://www.sketchappsources.com/
+
+https://www.flickr.com/photos/pware/32732270066/
+
+http://www.proko.com/
 
 二次元
 
@@ -74,45 +70,17 @@ https://archive.org/
 
 http://sci-hub.tw/
 
-艺术
-
-https://www.deviantart.com/
-
-https://www.behance.net/
-
-https://www.shutterstock.com/
-
-https://www.sketchappsources.com/
-
-https://www.flickr.com/photos/pware/32732270066/
-
-http://www.proko.com/
-
-网盘
-
-https://www.dropbox.com/
-
-https://onedrive.live.com/about/zh-cn/
-
-https://www.mediafire.com/
-
-https://uploader.jp/
-
-电商
-
-https://shop.nordstrom.com/
-
 音乐
 
 https://soundcloud.com/
 
 游戏
 
+https://www.twitch.tv/cybergamesarena
+
 http://www.gamer.com.tw/
 
 https://www.miniclip.com/games/en/
-
-https://www.twitch.tv/cybergamesarena
 
 https://garena.live/bebe0316
 
@@ -121,6 +89,10 @@ https://garena.live/bebe0316
 https://live.line.me/
 
 http://www.mgoon.com/en/
+
+电商
+
+https://shop.nordstrom.com/
 
 ## 二、广告过滤相关
 
