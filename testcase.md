@@ -86,9 +86,9 @@ https://garena.live/bebe0316
 
 娱乐
 
-https://live.line.me/
+https://live.line.me/channels/201136/broadcast/8702823
 
-http://www.mgoon.com/en/
+http://www.mgoon.com/en/ch/leonacorp/v/7278241
 
 电商
 
