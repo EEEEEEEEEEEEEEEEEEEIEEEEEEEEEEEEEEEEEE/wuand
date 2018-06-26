@@ -16,7 +16,7 @@ http://www.dmm.com/netgame/social/-/gadgets/=/app_id=854854/
 
 http://www.dmm.com/netgame/social/-/gadgets/=/app_id=825012/
 
-http://www.dmm.com/netgame/social/-/gadgets/=/app_id=798209/
+http://www.dmm.com/netgame/social/-/gadgets/=/app_id=798209/ （仅百分版支持）
 
 艺术
 
