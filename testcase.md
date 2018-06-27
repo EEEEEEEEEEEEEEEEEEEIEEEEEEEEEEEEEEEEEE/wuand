@@ -22,6 +22,8 @@ http://www.dmm.com/netgame/social/-/gadgets/=/app_id=798209/ （仅百分版支�
 
 https://www.pinterest.com/
 
+https://www.instagram.com/
+
 https://www.deviantart.com/
 
 https://www.behance.net/
