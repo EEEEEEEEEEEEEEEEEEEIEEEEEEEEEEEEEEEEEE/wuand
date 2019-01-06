@@ -102,15 +102,15 @@ https://shop.nordstrom.com/
 
 http://v.youku.com/v_show/id_XMTYwMzQ5NTU3Mg==.html
 
-http://www.iqiyi.com/v_19rrlfuf9w.html
+https://www.iqiyi.com/v_19rrlfuf9w.html
 
-http://tv.sohu.com/20160611/n453836239.shtml
+https://tv.sohu.com/20160611/n453836239.shtml
 
-http://www.tudou.com/albumplay/iYybgZAmNBI/xlGBgvIehwI.html
+http://video.tudou.com/v/XMTY1MTc3Nzg5Ng==.html
 
 http://www.le.com/ptv/vplay/25606867.html
 
-http://v.pptv.com/show/Py4KiaPBWxgRn5U0.html
+http://v.pptv.com/show/AEwppw915SOGBGw.html
 
 ### 2.其它
 
